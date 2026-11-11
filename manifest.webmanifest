@@ -1,0 +1,9 @@
+{
+  "name": "弧光工艺台 V1.5 工装电梯长度反算版",
+  "short_name": "弧光工艺台",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#eef3f1",
+  "theme_color": "#142b32",
+  "lang": "zh-CN"
+}
